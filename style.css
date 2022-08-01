@@ -1,0 +1,87 @@
+.firstdiv{
+    background-color: rgb(231, 194, 145);
+    width: 400px;
+    border: 5px;
+    padding: 50px;
+    margin: auto;
+    margin-top: 0px;
+    height: 150px;
+    border-radius: 10px;
+    line-height: 7px;
+}
+img{
+    width: 100px;
+    height: auto;
+    float: right;
+    border-radius: 4px;
+}
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(145, 67, 11);
+    text-align: justify;
+    margin-top: 20px;
+    width: 600px;
+}
+.head{
+    color: rgb(145, 67, 11);
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+form{
+    margin-top: 0;
+    margin-left: 450px;
+}
+input{
+    width: 50%;
+}
+input[type=text] {
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid rgb(175, 3, 218);
+    /* width: 300px; */
+    
+}
+input[type=email] {
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid rgb(175, 3, 218);
+    /* width: 300px; */
+}
+input[type=password] {
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid rgb(224, 221, 221);
+    /* width: 300px; */
+}
+#btn{
+    background-color: blueviolet;
+    width: 50%;
+    border: none;
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+footer{
+    text-align: center;
+    margin-top: -20px;
+    line-height: 3px;
+}
+a{
+    color: blueviolet;
+}
+a:link{
+    text-decoration: none;
+}
+a:visited{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+    color: forestgreen;
+}
+a:active{
+    text-decoration: none;
+} 
